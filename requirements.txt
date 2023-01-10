@@ -1,2 +1,2 @@
 six
-Django>=3.2.12
+Django>=3.1
